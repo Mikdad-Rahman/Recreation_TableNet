@@ -10,7 +10,9 @@ Paper link: [https://arxiv.org/abs/2001.01469](https://arxiv.org/abs/2001.01469)
 
 ## Architecture
 
-The model architecture is inspired by the original TableNet design, focusing on precise table boundary detection. An illustrative diagram of the architecture is available in the repository (`architecture.png`).
+The model architecture is inspired by the original TableNet design, focusing on precise table boundary detection. An illustrative diagram of the architecture is shown below:
+
+![TableNet Architecture](architecture.png)
 
 ## Dataset
 
